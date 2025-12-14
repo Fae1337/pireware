@@ -6,7 +6,7 @@ conditions[0].conditionValue.uint8 = 17; // 17 - udp
 conditions[1].conditionValue.uint32 = FWP_DIRECTION_OUTBOUND;
 ```   
 # All protocols   
-| # | Protocol |
+| Number | Protocol |
 |---|----------|
 | 1 | ICMP |
 | 6 | TCP |
