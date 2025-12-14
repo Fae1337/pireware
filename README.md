@@ -13,6 +13,6 @@ conditions[1].conditionValue.uint32 = FWP_DIRECTION_OUTBOUND;
 | 47 | GRE |
 | 50 | ESP |
 | 51 | AH |
-| 58 | ICMPv6 |
-<hr>
+| 58 | ICMPv6 |    
+# Info
 <img src="https://s2.radikal.cloud/2025/12/14/ANNOTATIY-2025-12-14-1330040ca9d8c968ac65aa.png">
