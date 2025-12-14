@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pireware/pireware.vcxproj" Id="cdc65c42-74ea-41cb-b9f5-3257c0e77364" />
+</Solution>
