@@ -1,6 +1,5 @@
 # pireware
-lag switch for valorant   
-Status: undetected   
+lag switch for valorant and more games, status: undetected   
 ```C++
 conditions[0].conditionValue.uint8 = 17; // 17 - udp
 conditions[1].conditionValue.uint32 = FWP_DIRECTION_OUTBOUND;
